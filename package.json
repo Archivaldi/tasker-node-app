@@ -1,0 +1,25 @@
+{
+  "name": "tasker-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archivaldi/tasker-node-app.git"
+  },
+  "keywords": [],
+  "author": "Artur Markov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archivaldi/tasker-node-app/issues"
+  },
+  "homepage": "https://github.com/Archivaldi/tasker-node-app#readme",
+  "dependencies": {
+    "dotenv": "8.1.0",
+    "nightmare": "3.0.2",
+    "nodemailer": "6.3.0"
+  }
+}
