@@ -1,7 +1,6 @@
 exports.data = {
     user: process.env.USER,
-    pass: process.env.PASSWORD,
-    type: process.env.TYPE
+    pass: process.env.PASSWORD
 };
 
 exports.service = process.env.SERVICE;
