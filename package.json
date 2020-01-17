@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/Archivaldi/tasker-node-app#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "dotenv": "8.1.0",
     "googleapis": "^39.2.0",
-    "nightmare": "3.0.2",
-    "nodemailer": "6.3.0"
+    "nightmare": "^3.0.2",
+    "nodemailer": "6.3.0",
+    "request": "^2.88.0"
   }
 }
